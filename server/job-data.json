@@ -1,0 +1,738 @@
+[
+  {
+    "jobName": "Frontend developer",
+    "companyName": "RTC Integration",
+    "jobLocation": "Beograd",
+    "technologies": ["AngularJS", "JavaScript", "Css", "Html", "jQuery"],
+    "jobExpiresAt": "2022-07-21",
+    "creator": "6252cecedc3a703213973935",
+    "aboutUs": "RTC Integration is the trusted, specialist global Talent Solutions partner of choice for employers and professionals in the Energy sector. has been here to help people like you make the most of the opportunities available and find the best fit for you as an individual. Over 10,000 placements in more than 55 countries for over 550 clients across 65 disciplines. In an industry where skilled and experienced professionals are increasingly sought after resource, we appreciate the true value of what you have to offer. What's more, we understand that different things are important to different people in today's world of work - it's about making exactly the right connections for you as an individual.",
+    "jobDescription": "Lead projects from start to finish including planning, scoping, designing, coding, testing and deployment. Own and lead all Salesforce projects (enhancements, bug fixes, upgrades, integrations). Interact with various business users (including senior executives) to gather requirements",
+    "responsibilities": [
+      "Monitoring and maintaining systems",
+      "Stay up to date with modern technologies",
+      "Confirm application operation by conducting tests; modifying program sequence and/or codes",
+      "Provide detailed estimates for projects and tasks",
+      "Perform periodic mass data upload, manipulation and cleanup"
+    ],
+    "requiredQualifications": [
+      "Bachelor's Degree in Computer Science or Computer Engineering",
+      "Experience with both Classic and Lightning development",
+      "Demonstrated experience in functional and unit testing",
+      "Experience in APIs (REST and SOAP)",
+      "Experience leading projects and managing timelines",
+      "Excellent verbal and written communication skills. Must be able interact with business leads directly"
+    ]
+  },
+  {
+    "jobName": "Java Developer",
+    "companyName": "Nabors",
+    "jobLocation": "Beograd",
+    "technologies": [
+      "J2EE",
+      "Spring",
+      "Tomcat",
+      "Java",
+      "Apache",
+      "Hibernate",
+      "MongoDB",
+      "AngularJS"
+    ],
+    "jobExpiresAt": "2022-08-23",
+    "creator": "6252cecedc3a703213973935",
+    "aboutUs": "Nabors is a leading provider of advanced technology for the energy industry. With operations in about 20 countries, Nabors has established a global network of people, technology and equipment to deploy solutions that deliver safe, efficient and responsible hydrocarbon production. By leveraging its core competencies, particularly in drilling, engineering, automation, data science and manufacturing, Nabors aims to innovate the future of energy and enable the transition to a lower carbon world. Nabors is committed to providing equal employment opportunities to all employees and applicants and prohibiting discrimination and harassment of any type without regard to race, religion, age, color, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws. This applies to all terms and conditions of employment including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training. To learn more about our Fair Employment practices, please refer to the Nabors Code of Conduct.",
+    "jobDescription": "Design, develop, implement and maintain Java applications. Analyze, program, test and debug software. Recommend changes to improve processes. Ideate, innovate and stay on top of technology to build performant and scalable applications.",
+    "responsibilities": [
+      "The primary responsibility of this role is to design, develop, test, implement and support APIs and integration for platform applications",
+      "Identify potential problems and recommend solutions to the most complex data design scenarios",
+      "Provide estimates, deliver well documented program code and prepare code in accordance with Nabors designs usability, performance standards, and graphic user interface",
+      "Assist as technical data resource to cross functional teams",
+      "Develop, code and/or configure and test programs from clear specifications to meet business needs and ensure functionality of applications",
+      "Diagnose and solve common system problems while working under pressure to meet aggressive deadlines in an environment with limited resources",
+      "Assist on projects involving complex interfaces and interdependencies between systems and also integrating multiple solutions",
+      "Participate in systems design, working within an established framework to maximize system efficiency"
+    ],
+    "requiredQualifications": [
+      "5+ years of experience in Core and Advanced Java (1.8 or above)",
+      "5+ years of experience in Spring and Apache",
+      "3+ years of experience in Mybatis, Hibernate or JPA experience",
+      "5+ years of experience in Inversion of Control and Dependency Injection frameworks",
+      "3+ years of experience in Caching & Scheduler experience",
+      "2+ years of experience in using API Gateway",
+      "3+ years of experience in Kafka"
+    ]
+  },
+  {
+    "jobName": "Cloud Developer",
+    "companyName": "Cammach Bryant",
+    "jobLocation": "Beograd",
+    "technologies": [
+      "GitFlow",
+      "JavaScript",
+      "Css",
+      "Html",
+      "Rest",
+      "React",
+      ".Net"
+    ],
+    "jobExpiresAt": "2022-08-15",
+    "creator": "6252cecedc3a703213973935",
+    "jobDescription": "ur client is looking for a Cloud Developer for a contract position, located in Beograd. Participating in the design and creation of scalable software",
+    "responsibilities": [
+      "Writing clean, functional code on the front- and back-end",
+      "Testing and fixing bugs or other coding issues",
+      "Developing new user-facing features using React.js",
+      "Developing backend components using the Microsoft.NET stack",
+      "Building reusable components and front-end libraries for future use",
+      "Working with development teams and product managers to design software solutions",
+      "Designing client-side and server-side architecture",
+      "Designing and implement RESTful APIs"
+    ],
+    "requiredQualifications": [
+      "Relational databases and knowledge of SQL.",
+      "Open-mindedness and soft skills are a big plus.",
+      "Ensuring the back and front end are designed for speed and scalability",
+      "Strong proficiency in JavaScript, including DOM manipulation and the JavaScript object model",
+      "Thorough understanding of React.js and its core principles",
+      "Knowledge of modern authorization mechanisms, such as JSON Web Token",
+      "https://www.rigzone.com/oil/jobs/postings/1124186_cloud_developer?s=8#:~:text=Familiarity%20with%20modern%20front%2Dend%20build%20pipelines%20and%20tools",
+      "Ability to understand business requirements and translate them into technical requirements"
+    ]
+  },
+  {
+    "jobName": "Full Stack Developer",
+    "companyName": "Vega IT",
+    "jobLocation": "Zrenjanin",
+    "technologies": [
+      "PHP",
+      "C#",
+      "SQL",
+      "Angular",
+      "Java",
+      "Ruby",
+      "Python",
+      "OOP"
+    ],
+    "jobExpiresAt": "2022-06-30",
+    "creator": "6252cecedc3a703213973935",
+    "aboutUs": "Want to make a smart career choice and work with a company that knows how to value their team? If so, find out more about our open position for a software engineer. We would love to have you on our team!",
+    "jobDescription": "Lead projects from start to finish including planning, scoping, designing, coding, testing and deployment. Own and lead all Salesforce projects (enhancements, bug fixes, upgrades, integrations). Interact with various business users (including senior executives) to gather requirements. We think this is a great place to work and here are just some of the benefits you could receive if you join us.",
+    "responsibilities": [
+      "Good knowledge of object-oriented programming",
+      "Stay up to date with modern technologies",
+      "Confirm application operation by conducting tests; modifying program sequence and/or codes",
+      "Expanding knowledge and therefore improving your existing mastery of technologies.",
+      "Involvement in challenging and dynamic working environment"
+    ],
+    "requiredQualifications": [
+      "Bachelor's Degree in Computer Science or Computer Engineering",
+      "Good knowledge of JavaScript and at least one modern JavaScript framework (Angular, React, Vue.js, Backbone.js...)",
+      "Willingness to learn and work in different programming languages and technologies",
+      "Good knowledge of at least one OOP language (C#, Java, PHP, Python, Ruby...)",
+      "Good knowledge of object-oriented programming",
+      "Open-mindedness and soft skills are a big plus."
+    ]
+  },
+  {
+    "jobName": "Mobile Application Developer",
+    "companyName": "Wood",
+    "jobLocation": "Kragujevac",
+    "technologies": [
+      "SQL",
+      "PostgreSQL",
+      "MongoDB",
+      "Docker",
+      "AWS",
+      "Agile",
+      "Scrum"
+    ],
+    "jobExpiresAt": "2022-07-10",
+    "creator": "6252cecedc3a703213973935",
+    "jobDescription": " The position will be part of a team focused on the development of applications for processing and displaying atmospheric/marine weather and climate data, that help our clients anticipate and prepare for adverse weather impacts on their operations. The team provides software development and mobile/web-based information delivery to clients using cloud technologies. The team uses an agile software development process.",
+    "responsibilities": [
+      "Design, development, testing and debugging of front-end and back-end applications.",
+      "Focus on mobile application development",
+      "Communicating effectively with the team members on various tasks and projects",
+      "Contributing to team processes and quality control measures",
+      "Monitoring, supporting, or enhancing existing applications",
+      "Participation in after-hours support rotation",
+      "Other duties as assigned."
+    ],
+    "requiredQualifications": [
+      "Knowledge and experience with mobile framework app development",
+      "Time management and multi-tasking ability.",
+      "Good oral and written communication skills.",
+      "Ability to work as part of a larger team or independently",
+      "Knowledge and experience with one or more of the following: JavaScript, .NET, Python, Bash, React, Node.js",
+      "Knowledge of Microsoft SQL Server, SQL, PostgreSQL, MongoDB; big data storage solutions would be an asset",
+      "Knowledge and experience working in Linux environment"
+    ]
+  },
+  {
+    "jobName": "LabVIEW Software Developer",
+    "companyName": "Oceaneering",
+    "jobLocation": "remote",
+    "technologies": ["Agile", "LabVIEW", "Linux", "Windows"],
+    "jobExpiresAt": "2022-06-15",
+    "creator": "6252cecedc3a703213973935",
+    "aboutUs": "Oceaneering pushes the frontiers of deep water, space and motion entertainment environments to execute with new, leading-edge connections to solve tomorrow’s challenges, today. As the trusted subsea connection specialist, our experience combined with the depth and breadth of our portfolio of technologies allows us to engineer solutions for the most complex subsea challenges. From routine to extreme, our integrated products, services, and innovative solutions safely de-risk operational systems, increase reliability, and enable a lower total cost of ownership. We are connecting what’s needed with what’s next as the world’s largest ROV operator and the leading ROV provider to the oil and gas industry with over 300 systems operating worldwide. With our safety-focused and innovative approach, we responsively and decisively react to sub sea challenges while providing solutions swiftly and efficiently",
+    "jobDescription": "Lead projects from start to finish including planning, scoping, designing, coding, testing and deployment. Own and lead all Salesforce projects (enhancements, bug fixes, upgrades, integrations). Interact with various business users (including senior executives) to gather requirements",
+    "responsibilities": [
+      "GUI software development using LabVIEW to provide a user friendly interface to users of exercise equipment",
+      "Translate customer inputs and preferences into easy to interact with displays for exercising purposes",
+      "Document requirements, design, and tests of the GUI Software being developed",
+      "Perform other duties as required"
+    ],
+    "requiredQualifications": [
+      "BS degree in engineering from an accredited engineering school and three (3) years related engineering experience",
+      "Advanced degree may be counted as work experience",
+      "LabVIEW software development (must be proficient)",
+      "Translating user requirements and preferences into software requirements",
+      "Configuration Management of software",
+      "Process analysis and re-engineering",
+      "Process analysis and re-engineering",
+      "The full software development lifecycle",
+      "The use of Agile software development principles",
+      "Communicating effectively and providing excellent customer service"
+    ]
+  },
+  {
+    "jobName": "C / C++ Software Developer",
+    "companyName": "Oceaneering",
+    "jobLocation": "remote",
+    "technologies": ["C", "C++", "AI", "Jira", "Git", "Qt"],
+    "jobExpiresAt": "2022-07-28",
+    "creator": "6252cecedc3a703213973935",
+    "aboutUs": "Oceaneering pushes the frontiers of deep water, space and motion entertainment environments to execute with new, leading-edge connections to solve tomorrow’s challenges, today. As the trusted subsea connection specialist, our experience combined with the depth and breadth of our portfolio of technologies allows us to engineer solutions for the most complex subsea challenges. From routine to extreme, our integrated products, services, and innovative solutions safely de-risk operational systems, increase reliability, and enable a lower total cost of ownership. We are connecting what’s needed with what’s next as the world’s largest ROV operator and the leading ROV provider to the oil and gas industry with over 300 systems operating worldwide. With our safety-focused and innovative approach, we responsively and decisively react to sub sea challenges while providing solutions swiftly and efficiently",
+    "jobDescription": "The primary responsibility of this position is to design and develop software for submersible Remotely Operated Vehicles (ROVs), Autonomous Underwater Vehicles (AUVs), intelligent subsea tooling and potentially various other projects. Acts as a technical lead on individual projects.",
+    "responsibilities": [
+      "Design and implement software additions to existing applications.",
+      "Requirements, design, implementation and testing of software tasks as assigned.",
+      "Prepare technical procedures for assembly, testing, and operations.",
+      "Provide mentoring/guidance to designers and junior engineers.",
+      "Maintain code and documentation using revision control.",
+      "Act as technical lead on individual projects, providing guidance and mentorship to staff.",
+      "Up to 25% onshore travel. Potential for occasional offshore travel.",
+      "Must be able to communicate to both technical resources and non technical/other personnel regarding specifications for applications or processes being developed."
+    ],
+    "requiredQualifications": [
+      "Bachelor's Degree in Computer Science, Mathematics or the physical sciences (e.g. electrical or mechanical engineering, physics) or equivalent education and experience",
+      "Minimum of (8) eight years of software development experience.",
+      "Minimum 5 years of C/C++ programming.",
+      "Experience with robotics and automation software programming",
+      "Experience with revision control systems such as Subversion and Git, and issue tracking systems such as Jira.",
+      "Familiarity with embedded systems design and/or robotics.",
+      "Experience with Qt framework.",
+      "Experience with network programming.",
+      "Experience with AI, Machine learning and Image processing.",
+      "Exposure to projects using Agile or other formal processes"
+    ]
+  },
+  {
+    "jobName": "Software Developer - Intern",
+    "companyName": "Nabors",
+    "jobLocation": "Beograd",
+    "technologies": [
+      "C#",
+      "C++",
+      "NET 4.0",
+      "VS2013",
+      "SQL",
+      "AngularJS",
+      "Oracle"
+    ],
+    "jobExpiresAt": "2022-08-25",
+    "creator": "6252cecedc3a703213973935",
+    "aboutUs": "Nabors is a leading provider of advanced technology for the energy industry. With operations in about 20 countries, Nabors has established a global network of people, technology and equipment to deploy solutions that deliver safe, efficient and responsible hydrocarbon production. By leveraging its core competencies, particularly in drilling, engineering, automation, data science and manufacturing, Nabors aims to innovate the future of energy and enable the transition to a lower carbon world.",
+    "jobDescription": "Nabors is seeking high performing summer intern for controls and automation team. Provide hands-on support for software engineering projects. Be part of the software development team what participates in creating software for controls and automation systems. Test, analyze and resolve technical issues, while writing new code or revising code, which helps drive business results. Build your skills and knowledge in real life business scenarios.Internship is based in Beograd",
+    "responsibilities": [
+      "Gain knowledge and experience in automation and maintenance",
+      "Document & test software applications",
+      "Review other's codes and programming",
+      "Asses new application ideas",
+      "Work with software engineers to meet deliverables",
+      "Develop applications (programming, coding)",
+      "Able to analyze data and understand the relationships and correlations"
+    ],
+    "requiredQualifications": [
+      "Pursuing final year of university studies towards bachelor's degree or seeking Masters/PhD in Computer Science/Engineering, Computer Information Systems, or related coursework",
+      "Knowledge of HTML5, .NET 4.0, Postgres, MySQL & Oracle",
+      "Prefer basic understanding of the following from previous work/classes/research and/or relevant pervious jobs/internships",
+      "Visual Studio 2013",
+      "various SQL databases including SqlCE and MySql",
+      "Computer skills including MS Word, Excel, PowerPoint",
+      "AngularJs, HTML5, and MVC design patterns",
+      "SWD/MWD system and its operation"
+    ]
+  },
+  {
+    "jobName": "Software Development QA Analyst I",
+    "companyName": "Weatherford",
+    "jobLocation": "Nis",
+    "technologies": ["C", "C++", "VBScript", "Jira", "Git", "SQUASH"],
+    "jobExpiresAt": "2022-07-11",
+    "creator": "6252cecedc3a703213973935",
+    "aboutUs": "Weatherford is a leading global energy services company. Our world-class experts partner with customers to optimize their resources and realize the full potential of their assets. Across our operating locations, including manufacturing, research and development, service, and training facilities, operators choose us for strategic solutions that add efficiency, flexibility, and responsibility to any energy operation. We are focused on technology development, digital solutions, and defining our footprint in the new energy space. Our ability to provide integrated solutions across our segments will be critical to growth in our core operations and the energy transition",
+    "jobDescription": "This is the intermediate level job. Performs routine tasks associated with the design, modification, development, writing and implementing software programming applications. Applies standard techniques",
+    "responsibilities": [
+      "Automation and Manual test execution.",
+      "Ability to run and diagnose failures in tests written in C#, C++, VBScript and other programming languages.",
+      "Works with device level polling software in SCADA system.",
+      "Develops routine tests for new software or enhancements.",
+      "Executes regression tests, functional tests and data tests.",
+      "Familiarity of automation testing (development of testing code from scratch) using Visual Studio's Coded UI module, C#.",
+      "Must have knowledge of manual test strategies and Automation Frameworks and Implementation of Frameworks",
+      "Maintain existing test scripts and test cases and develop new ones based on new requirements.",
+      "Develops test scripts and plans according to specifications from higher level staff",
+      "Know and understand Weatherford Quality Policy and comply with all requirements of the Quality Systems Manual, Operating and Technical Procedures and Workplace Instructions."
+    ],
+    "requiredQualifications": [
+      "Able to read/understand device protocol specifications.",
+      "Knowledge of TCP/IP networking configuration required.",
+      "Ability to develop new automated tests in C#, CodedUI or equivalent.",
+      "Familiar with Agile Scrum development methodology",
+      "Hands-on knowledge on minimum of one test automation tool.",
+      "Knowledge of one or more scripting languages.",
+      "Ability to translate requirements into a solid test cases.",
+      "Strong diagnostic skills to track, troubleshoot, and identify issues.",
+      "Ability to take direction and work well with others.",
+      "Strong problem solving and analytical skills."
+    ]
+  },
+  {
+    "jobName": "Front End Software Developer",
+    "companyName": "Baker Hughes",
+    "jobLocation": "Beograd",
+    "technologies": [
+      "HTML5",
+      "CSS",
+      "Angular",
+      "REST",
+      "SASS",
+      "AngularJS",
+      "Bootstrap"
+    ],
+    "jobExpiresAt": "2022-07-05",
+    "creator": "6252cecedc3a703213973935",
+    "aboutUs": "We are Baker Hughes Digital Technology team. We provide and create tech solutions to cater to the needs of internal and external customers. As a global team we collaborate to provide cutting-edge solutions to solve our customer's problem.",
+    "jobDescription": "We are taking on the world's biggest challenges through innovative software solutions. Work with software professionals, BAs,domain experts in commercial applications that promote growth for BH and their customers.",
+    "responsibilities": [
+      "Developing high performing, scaling and innovative end-to-end web applications",
+      "Collaborating with system engineers, backend developers and architects to implement solutions that promote customer success",
+      "Being technically skilled with an eye for design to translate user needs and expectations into software products",
+      "Working with awareness like Lean/Agile/XP, CI, Cybersecurity, Scalability, Documentation Practices and Testing Techniques"
+    ],
+    "requiredQualifications": [
+      "Be a graduate in Computer Science or STEM, a minimum 3 yrs of professional experience",
+      "Have experience developing web applications & hands-on with front end technologies: Javascript, HTML5, CSS, AngularJS, Angular 7,8",
+      "Have experience with UI layouts, SASS, Bootstrap, CSS and integrating a complex REST API from the client-side",
+      "Have working knowledge on microservices based architecture (Spring, RESTful, Jersey, RestEasy, JAX-WS, Web Services)",
+      "Have working knowledge on database tools (JPA, Hibernate, JDBC, Spring Data, Postgres)",
+      "Have good understanding of DevOps (Gradle, Maven, Git) exposure to CI/CD pipeline including Jenkins, SonarQube & Docker"
+    ]
+  },
+  {
+    "jobName": "Software Developer / Software Engineer I (Early Career Development)",
+    "companyName": "Nabors",
+    "jobLocation": "Beograd",
+    "technologies": ["HTML5", "JavaScript", "RDBMS", "Python", "C#", "Excel"],
+    "jobExpiresAt": "2022-07-28",
+    "creator": "6252cecedc3a703213973935",
+    "aboutUs": "Nabors is seeking high performing summer intern for controls and automation team. Provide hands-on support for software engineering projects. Be part of the software development team what participates in creating software for controls and automation systems. Test, analyze and resolve technical issues, while writing new code or revising code, which helps drive business results. Build your skills and knowledge in real life business scenarios.Internship is based in Beograd.",
+    "jobDescription": "Be part of the Nabors Early Career Development Program (ECDP) to fast track your career! This rotational program will provide access to advance your knowledge and skills in high-profile roles within the ECDP program. You will start as a full-time Software Developer /Software Engineer I in Digital Technology. The ECDP program offers four rotational assignments in key areas of digital technology during the initial two years of employment, to help build your knowledge and career development.",
+    "responsibilities": [
+      "Develop applications (programming, coding)",
+      "Test, analyze and resolve technical issues, while writing new code or revising code to drive business results.",
+      "Document & test software applications",
+      "Review other's codes and programming.",
+      "Assess business requirements to generate application ideas.",
+      "Work with the team on design and architecture tasks",
+      "Participate in test lab with rig simulator and with QA test team.",
+      "Analyze data and understand the relationships and correlations.",
+      "Ability to multitask and work well independently and in a team environment",
+      "Ability to generate research ideas"
+    ],
+    "requiredQualifications": [
+      "Bachelor's Degree in Computer Science, Mathematics or the physical sciences.",
+      "Minimum 3.0 GPA",
+      "Programming experience in at least 1 development language such as C++, Web development, Java, Python or Visual Studio .NET or C#",
+      "Familiarity with software development lifecycle either in traditional waterfall or agile methodologies",
+      "Skills in MS Word, Excel, PowerPoint",
+      "Ability to work in groups/teams",
+      "1 to 3 years experience in actual software development projects.",
+      "Development in C#, C, C++, .NET 4.0, Visual Studio 2013",
+      "Knowledge of Various SQL databases including SqlCE, PostGres, Oracle and MySql.",
+      "Unit Testing & Scripting experience"
+    ]
+  },
+  {
+    "jobName": "OceanSMART Head of Software Architecture & Development",
+    "companyName": "Ocean software",
+    "jobLocation": "Kragujevac",
+    "technologies": [
+      "MongoDB",
+      "npm",
+      "NodeJS",
+      "GraphQL",
+      "SQL",
+      "AWS",
+      "MapBox",
+      "UI/UX",
+      "JavaScript"
+    ],
+    "jobExpiresAt": "2022-06-23",
+    "creator": "6252cecedc3a703213973935",
+    "aboutUs": "We are connecting what’s needed with what’s next as the world’s largest ROV operator and the leading ROV provider to the oil and gas industry with over 300 systems operating worldwide. With our safety-focused and innovative approach, we responsively and decisively react to subsea challenges while providing solutions swiftly and efficiently.",
+    "jobDescription": "We are seeking a highly skilled software architect and development manager to lead our development team in creating software solutions that meet our clients' needs. A director of software development is primarily in charge of overseeing the workflow and the workforce involved in the entire software development process. To be successful as a software architect, you should be an expert problem solver with a strong understanding of the broad range of software technologies and platforms available. Top candidates will also be excellent leaders and communicators.",
+    "responsibilities": [
+      "Manage and mentoring several development teams of on- and offshore developers. developing efficient coding practices",
+      "Collaborating with various stakeholders to determine software requirements.",
+      "Providing the development team with architectural blueprints to follow.",
+      "Guiding and assisting the development team throughout the process.",
+      "Troubleshooting and resolving issues with coding or design.",
+      "Ensuring that you and the team adhere to development schedules and deadlines.",
+      "Presenting regular progress reports and setting goals.",
+      "Testing the final product to ensure it is completely functional and meets requirements."
+    ],
+    "requiredQualifications": [
+      "Experience of running offshore 3 rd party development teams.",
+      "Master's degree in computer science",
+      "Extensive experience in software development and project management.",
+      "Solid understanding of a variety of programming tools and development platforms.",
+      "Excellent organizational and leadership abilities.",
+      "Highly analytical mindset, with an ability to see both the big picture and the details",
+      "Strong communication and presentation skills."
+    ]
+  },
+  {
+    "jobName": "Senior Angular Developer",
+    "companyName": "Baker Hughes",
+    "jobLocation": "Beograd",
+    "technologies": [
+      "Javascript",
+      "Angular",
+      "AngularJS",
+      "CSS",
+      "Git",
+      "NodeJS"
+    ],
+    "jobExpiresAt": "2022-07-23",
+    "creator": "6252cecedc3a703213973935",
+    "aboutUs": "We are Baker Hughes Digital Technology team. We provide and create tech solutions to cater to the needs of internal and external customers. As a global team we collaborate to provide cutting-edge solutions to solve our customer's problem.",
+    "jobDescription": "As a Senior Angular Developer you will be responsible for designing highly complex modules, critical components or a whole application/product in its entirety. Is responsible for shaping the design and development efforts related to architecture, scalability, availability and performance in alignment with the product/application roadmap.",
+    "responsibilities": [
+      "Performing research and development to generate/maintain robust engineering application software.",
+      "Maintaining knowledge of assigned products and subject areas.",
+      "Maintaining interfaces with team, stakeholders and customers as required.",
+      "Creating production quality reusable components and libraries.",
+      "Executes regression tests, functional tests and data tests"
+    ],
+    "requiredQualifications": [
+      "Able to support HTTPs RESTful APIs with authentication",
+      "Have NoSQL Database experience, such as Couchbase Lite",
+      "Have Angular 4+, Rxjs or ngRx experience.",
+      "Have experience consuming real-time data using either SignalR or gRPC protocols.",
+      "Have experience using third party packages for charting, UI components like Infragistics, Amcharts, etc.",
+      "Have hands on experience on development of micro frontends.",
+      "Have experience in Angular Material or other CSS/SASS frameworks for UI designing.",
+      "Experience in using source control systems such as TFS, Subversion, Git.",
+      "Experience in using software build systems such as TFS, TeamCity"
+    ]
+  },
+  {
+    "jobName": "Tech Prof-Software Development",
+    "companyName": "Halliburton",
+    "jobLocation": "Beograd",
+    "technologies": [
+      "HTML5",
+      "CSS",
+      "Angular",
+      "Javascript",
+      "SASS",
+      "Typescript",
+      "Bootstrap"
+    ],
+    "jobExpiresAt": "2022-07-05",
+    "creator": "6252cecedc3a703213973935",
+    "aboutUs": "Halliburton is proud to be a services company, and our customers and investors appreciate our business model.  Our strong competitive position not only comes from our geographic footprint and wide range of products and services, but also, more importantly, from the quality of our work and the dedication of our employees.",
+    "jobDescription": "We are looking for the right people - people who want to innovate, achieve, grow and lead. We attract and retain the best talent by investing in our employees and empowering them to develop themselves and their careers. Experience the challenges, rewards and opportunity of working for one of the world's largest providers of products and services to the global energy industry.",
+    "responsibilities": [
+      "Developing high performing, scaling and innovative end-to-end web applications",
+      "Collaborating with system engineers, backend developers and architects to implement solutions that promote customer success",
+      "",
+      ""
+    ],
+    "requiredQualifications": [
+      "5+ years' experience in web development",
+      "Familiar with HTML5/CSS3/JavaScript, Angular 2+, Bootstrap 3.x, Typescript",
+      "Have experience with UI layouts, SASS, Bootstrap, CSS and integrating a complex REST API from the client-side",
+      "Have working knowledge on microservices based architecture (Spring, RESTful, Jersey, RestEasy, JAX-WS, Web Services)",
+      "Have working knowledge on database tools (JPA, Hibernate, JDBC, Spring Data, Postgres)",
+      "Have good understanding of DevOps (Gradle, Maven, Git) exposure to CI/CD pipeline including Jenkins, SonarQube & Docker"
+    ]
+  },
+  {
+    "jobName": "Lead Backend PHP Developer",
+    "companyName": "ABOUT YOU",
+    "jobLocation": "Beograd",
+    "technologies": [
+      "PHP",
+      "Laravel",
+      "Lumen",
+      "MySQL",
+      "MongoDB",
+      "AWS",
+      "REST API",
+      "Jira"
+    ],
+    "jobExpiresAt": "2022-08-15",
+    "creator": "6252cecedc3a703213973935",
+    "aboutUs": "We take responsibility for creating an inclusive and exceptional environment where all genders, nationalities and ethnicities feel welcomed and accepted exactly as they are. We believe that a diverse workforce essentially contributes to the ABOUT YOU culture. In order to maintain talent and diversity, we emphasize the care for physical health, mental health and overall well-being. Our values and work ethics essentially contribute to our brand mission: empower acceptance and shape an inclusive, fair and circular fashion culture.",
+    "jobDescription": "Our Tech Department is the heart of ABOUT YOU, driven by the passion to develop the best infrastructure & tech applications. As our Lead Backend PHP Developer, you will direct a team of 5 to 7 developers in collaboration with the product manager. With your deep understanding of building digital products and software development, you will constantly optimize our complex applications in consideration of all requirements and stakeholders.",
+    "responsibilities": [
+      "Build complex & high scalable technical solutions in close cooperation with the Tech Lead and the Product Lead as well as the product manager",
+      "Draft architectural decisions and ensure reliable and state-of-the-art products",
+      "Lead a world-class team of engineers and collaborate with product managers, QA’s, and with designers to ship new components and features",
+      "Work within a dynamic & international environment with an agile working culture using methodologies such as SCRUM or Kanban",
+      "Work in an agile & international team with flat hierarchies and very short decision-making process"
+    ],
+    "requiredQualifications": [
+      "You have 5+ years of experience in developing high-scalable products in PHP7",
+      "You are proficient in or Symfony and have a deep understanding of the basics",
+      "You feel comfortable with people management topics and have worked in a leading role in a fast-changing environment before",
+      "You write well-structured, efficient and maintainable code and actively keep the quality of the codebase in check",
+      "You have excellent analytical and problem-solving skills",
+      "You are used to working in an English-speaking environment"
+    ]
+  },
+  {
+    "jobName": "Front-End Web Developer",
+    "companyName": "Crown Consulting, Inc.",
+    "jobLocation": "remote",
+    "technologies": [
+      "HTML5",
+      "CSS",
+      "PHP",
+      "Javascript",
+      "MySQL",
+      "jQuery",
+      "Photoshop",
+      "REST API"
+    ],
+    "jobExpiresAt": "2022-07-28",
+    "creator": "6252cecedc3a703213973935",
+    "aboutUs": "Crown is a global leader in planning and implementing advanced air mobility (AAM) services, with a particular focus on urban air mobility (UAM). We bring more than three decades of experience in developing strategy, exploring concepts, assessing technologies, developing use cases, and projecting economic impacts for the National Aeronautics and Space Administration (NASA), Federal Aviation Administration (FAA), Canadian government, and state and city departments of transportation. We are looking for an exceptional new team member to join our Crown innovators working with companies and government agencies to safely advance aviation’s newest frontier.",
+    "jobDescription": "We are accepting applications for a full-time Front-End Web Developer who will provide programming support for our portfolio of PHP/MySQL-based web applications.",
+    "responsibilities": [
+      "The primary responsibilities will be working in a team setting to translate designs and marketing goals of our clients into brand website enhancements",
+      "The ideal candidate for this position is experienced in creating websites both “from scratch” and also within CMS platforms.",
+      "Promotional microsites, and internet/intranet tools"
+    ],
+    "requiredQualifications": [
+      "Proficient in PHP programming within a MySQL database environment",
+      "Proficient in HTML5, CSS3",
+      "Experience with JavaScript and jQuery",
+      "Teamwork, Journaling, and Time-management skills",
+      "Light Graphics capabilities and understanding of Adobe Photoshop",
+      "SSH communication, LAMP stack server packages"
+    ]
+  },
+  {
+    "jobName": "Software Engineer, Data",
+    "companyName": "Tinder",
+    "jobLocation": "remote",
+    "technologies": [
+      "Oracle",
+      "Python",
+      "Jira",
+      "Eclipse",
+      "Jenkins",
+      "C#",
+      "Flink"
+    ],
+    "jobExpiresAt": "2022-08-05",
+    "creator": "6252cecedc3a703213973935",
+    "aboutUs": "Crown is a global leader in planning and implementing advanced air mobility (AAM) services, with a particular focus on urban air mobility (UAM). We bring more than three decades of experience in developing strategy, exploring concepts, assessing technologies, developing use cases, and projecting economic impacts for the National Aeronautics and Space Administration (NASA), Federal Aviation Administration (FAA), Canadian government, and state and city departments of transportation. We are looking for an exceptional new team member to join our Crown innovators working with companies and government agencies to safely advance aviation’s newest frontier.",
+    "responsibilities": [
+      "Lead the design, development, and maintain complex features for the Sherlock Data Warehouse for NASA",
+      "Guide software and database developers and IT admin on administration and upgrades to the Sherlock Data Warehouse",
+      "Collaberate with other teams",
+      "Work productively in a team environment"
+    ],
+    "requiredQualifications": [
+      "Proficient in Java, Python, SQL, and one or more scripting languages",
+      "Software architecture",
+      "Strong understanding of UNIX concepts and common network protocols",
+      "Strong understanding of data warehousing and experience with Oracle and Postgres DB",
+      "Familiarity with collaboration tools (Atlassian tools highly desired: Confluence, JIRA, Fisheye/Crucible, Bitbucket)",
+      "Familiarity with Python data science packages desired",
+      "Software design (object-oriented design, and Java patterns)",
+      "Hadoop, Apache Spark, Jupyter notebook and Anaconda python distribution experience is desired",
+      "Ability to be productive in a fast-paced team environment"
+    ]
+  },
+  {
+    "jobName": "Remote Jr. Java Software Engineer",
+    "companyName": "Datagrate, Inc.",
+    "jobLocation": "Beograd",
+    "technologies": ["Java", "Apache", "API", "Camel"],
+    "jobExpiresAt": "2022-06-28",
+    "creator": "6252cecedc3a703213973935",
+    "aboutUs": "Datagrate is an IT consulting company with the character of a start-up based in St. Petersburg, Florida. Enthusiasm for implementing customized IT software solutions, passion for new technology, and promoting the digital transformation to our customers is what unites and motivates us.",
+    "jobDescription": "We are looking for a Software Engineer who is passionate, motivated, and enthusiastic about implementing modern enterprise IT solutions in the world of application integration.",
+    "responsibilities": [
+      "Plan and implement complex middleware platforms and solutions for our customers to integrate our customer's enterprise software systems, cloud applications, and apps",
+      "Develop scalable software and APIs with tech stacks like Java, Apache Camel, Elasticsearch, either on-premises, in the cloud, or hybrid",
+      "Present technical ideas, high-level concepts, and solutions to internal and external team members",
+      "Create integration solutions by collaborating with internal and external stakeholders",
+      "Work on cloud-native integrations using, AWS, Azure, Kubernetes, etc.",
+      "An option to work on our IT SaaS solution jetic.io which is based on Apache Camel."
+    ],
+    "requiredQualifications": [
+      "Software Development experience, ideally in Java Enterprise environments",
+      "Interest in combining coding with consulting, and ability to suggest new ideas",
+      "Professional appearance and good communication skills",
+      "Interest in quickly developing skills in modern integration tech stacks",
+      "Good understanding of backend system development",
+      "Bachelor's degree in Computer Science, any technical field, or equivalent practical experience",
+      "Willingness to travel for up to 50% of your time is required (contingent upon resuming safe travel)"
+    ]
+  },
+  {
+    "jobName": "Software Engineer",
+    "companyName": "Kodiak Robotics",
+    "jobLocation": "remote",
+    "technologies": ["C++", "git", "Typescript", "Java"],
+    "jobExpiresAt": "2022-07-30",
+    "creator": "6252cecedc3a703213973935",
+    "aboutUs": "Kodiak was founded in April 2018 to develop autonomous technology that carries freight forward—so people, partners, and the planet thrive. Navigating highway environments presents vastly different challenges than urban streets. Kodiak’s experienced team has developed the industry’s most advanced technology stack purpose-built specifically for long-haul trucks. From our sensor fusion system that maximizes the value of every sensing modality, to our unique lightweight mapping solution that allows our trucks to navigate ever-changing highway construction zones",
+    "jobDescription": "We are looking for recent graduates in various autonomy domains. Our ideal candidates have practical experience, are self-starters, and are excited about the unique opportunities for growth and impact at Kodiak. We will work with you to identify which domain(s) to launch your career from.",
+    "responsibilities": [
+      "Integrate with a team focusing on one or more autonomy domain(s) in a real autonomous vehicle stack, such as Controls, Localization, Motion Planning, Perception, Simulation, and more",
+      "Learn from highly-skilled industry professionals",
+      "Become an expert in one or more autonomy domain(s)",
+      "Develop exceptional software engineering practices writing maintainable, clear, and concise code",
+      "Invent cross-functional solutions to cutting-edge problems in autonomous-driving"
+    ],
+    "requiredQualifications": [
+      "A degree in Computer Science, Engineering, Applied Science, or equivalent experience",
+      "Experience writing C++ code and a desire to level up every aspect of your software engineering practice",
+      "Good communication skills and a collaborative bent",
+      "Proven ability to iterate quickly and work hands-on",
+      "Knowledge of modern C++ (c++14 and newer) and version control systems (e.g., git)",
+      "Comfort with fundamental mathematics, linear algebra and calculus"
+    ]
+  },
+  {
+    "jobName": "Software Engineer, Backend Product",
+    "companyName": "Etsy",
+    "jobLocation": "remote",
+    "technologies": ["MySQ", "PHP", "Api"],
+    "jobExpiresAt": "2022-07-15",
+    "creator": "6252cecedc3a703213973935",
+    "aboutUs": "Etsy is the global marketplace for unique and creative goods. We build, power, and evolve the tools and technologies that connect entrepreneurs with buyers around the world. Etsy, Inc.'s 'house of brands' portfolio has expanded to now include four individually distinct ecommerce brands - Etsy, fashion resale marketplace Depop, musical instrument marketplace Reverb, and Brazil-based handmade goods marketplace Elo7. As an Etsy employee, you'll tackle unique problems alongside talented coworkers committed to Keeping Commerce Human. We're large enough that you'll focus on meaningful, complex challenges, but small enough that you can make a rewarding impact.",
+    "jobDescription": "Etsy is seeking a Backend Product Software Engineer to join one of the Product teams under the Visual Discovery Initiative. The Explore Discovery team is focused on the video discovery experience for our Buyer (Buy on Etsy) app.",
+    "responsibilities": [
+      "This person will collaborate with mobile app developers, product managers, designers, and more on their team to build engaging and delightful user experiences for Etsy’s native applications.",
+      "Additionally, your work may take you into using our BigData stack, primarily written in Scala, and making use of our data pipeline"
+    ],
+    "requiredQualifications": [
+      "Are comfortable collaborating closely with product managers and designers, providing estimates or product ideas that will influence your team’s roadmap.",
+      "Love to experiment and use data to drive decision-making.",
+      "Understand the ins and outs of creating an API to be consumed by multiple platforms (we work in PHP and MySQL for our APIs that are consumed by mobile apps)",
+      "Can define and solve unconstrained problems, and know when to seek help when no progress is being made.",
+      "Have a “leave it better than you found it” mentality, and are willing to work with and improve on code you did not originally write.",
+      "Are interested in monitoring the health and performance of the applications your team owns."
+    ]
+  },
+  {
+    "jobName": "Software Engineer",
+    "companyName": "VMware",
+    "jobLocation": "Novi Sad",
+    "technologies": ["Go", "Python", "Java"],
+    "jobExpiresAt": "2022-06-23",
+    "creator": "6252cecedc3a703213973935",
+    "aboutUs": "VMware Company Overview: At VMware, we believe that software has the power to unlock new opportunities for people and our planet. We look beyond the barriers of compromise to engineer new ways to make technologies work together seamlessly. Our cloud, mobility, and security software form a flexible, consistent digital foundation for securely delivering the apps, services and experiences that are transforming business innovation around the globe. At the core of what we do are our people who deeply value execution, passion, integrity, customers, and community. Shape what’s possible today at http://careers.vmware.com.",
+    "jobDescription": "We are looking for someone who would be interested in staying ahead of technology and striving to learn the latest cloud technologies. As a Member of Technical Staff, you will design, implement and own key microservices for metrics, tracing, logging, alerting and analytics. Come and help make history as we change the way enterprises monitor and observe their critical SaaS application spaces.",
+    "responsibilities": [
+      "You will design and implement critical back end services.",
+      "You will own a component of the product and ensure its productions readiness",
+      "You will be working on cutting edge cloud technologies with other leaders in the field.",
+      "You will collaborate with other engineers and ensure best engineering practices are followed in software development.",
+      "You will collaborate with product teams in defining product."
+    ],
+    "requiredQualifications": [
+      "You feel comfortable writing software on one or more programming languages such as Java, Python or Go.",
+      "You feel comfortable in building high-performance, highly available and scalable distributed systems.",
+      "You will be using cloud technologies and open-source components.",
+      "You are familiar with design and architectural patterns for distributed services."
+    ]
+  },
+  {
+    "jobName": "Senior Java Full Stack Engineer",
+    "companyName": "Zuhlke Engineering d.o.o.",
+    "jobLocation": "Beograd",
+    "technologies": [
+      "Cordova",
+      "CSS",
+      "Xamarin",
+      "Javascript",
+      "AWS",
+      "Typescript",
+      "Bootstrap",
+      "ReactJS",
+      "Scrum",
+      "OOP"
+    ],
+    "jobExpiresAt": "2022-08-13",
+    "creator": "6252cecedc3a703213973935",
+    "aboutUs": "Zühlke is a service provider for innovation projects. We develop financially successful products, services and business models for today digital world from coming up with the initial idea through to the implementation and operation. We can achieve this by drawing on the experience of over 1000 in-house experts and of more than 10.000 successful projects. Zühlke Serbia is an attractive employer that offers challenging career opportunities for skilled, highly motivated software engineers. Within the Zühlke Group, we position ourselves as a center of expertise for distributed, agile software development. Together with colleagues in Switzerland, Germany, the UK, Austria, Singapore, Hong Kong, Bulgaria, Portugal and Vietnam we work on challenging software projects involving the latest technologies and variety of known practices.",
+    "jobDescription": "Here at Zuhlke, you get a chance to work in an international client-based environment along with the leading experts in the industry. Zuhlke supports your success with a unique culture and helps you grow constantly. Your continuous education is essential for us! We know how important life-long and fast learning is, which is why we invest 10% of our turnover in developing skills and services in an agile way – matching your needs and those of the company. We strongly believe in developing one's skills and we encourage this approach. In addition, Zuhlke offers a range of complementary training courses tailored to the needs of the company and its employees.",
+    "responsibilities": [
+      "Developing high performing, scaling and innovative end-to-end web applications",
+      "Collaborating with system engineers, backend developers and architects to implement solutions that promote customer success",
+      "Provide  expertise in the JavaScript/Typescript ecosystem and used frameworks like Angular, ReactJS or Vue.js"
+    ],
+    "requiredQualifications": [
+      "that you have a technical related degree and/or 5 years of professional experience in software development in Java or Kotlin",
+      "proven expertise in the JavaScript/Typescript ecosystem and used frameworks like Angular, ReactJS or Vue.js",
+      "strong understanding of OOP concepts and UML diagrams",
+      "that you are familiar with design patterns (GOF) and you know when to use them",
+      "working experience with relational and NoSQL databases",
+      "having experience with cloud computing (AWS, Azure, GCP) is considered as a plus",
+      "thorough knowledge of CI/CD of full-stack applications, including practice with automated testing frameworks like Selenium, Jasmine or similar tools",
+      "having hands-on experience in mobile native (Android or iOS) or hybrid mobile (Xamarin, Cordova, React Native) development is a plus"
+    ]
+  },
+  {
+    "jobName": "Big Data Software Engineer",
+    "companyName": "Tinder",
+    "jobLocation": "remote",
+    "technologies": [
+      "Oracle",
+      "Python",
+      "Redshift",
+      "Snowflake",
+      "Java",
+      "Linux",
+      "Scala"
+    ],
+    "jobExpiresAt": "2022-07-05",
+    "jobDescription": "Tinder is looking for an engineer who's eager to design and implement the next generation of our data platform. Our growing business always has new needs for actionable information, and this gives us an exciting roadmap with high-value products ready to be designed and many more waiting to be identified. This role will involve working with large scale data pipelines in near-real-time, batch, and lambda frameworks.",
+    "aboutUs": "Tinder brings people together. With tens of millions of users, hundreds of millions of downloads, 2 billion swipes per day, hundreds of thousands of requests per second, 20 million matches per day and a presence in every country on earth, our reach is expansive—and rapidly growing.",
+    "responsibilities": [
+      "Work on pipelines ingesting greater than 1gb per second",
+      "Design, implement, and own software solutions for ingesting and exposing high volume data feeds",
+      "Coordinate with engineering, analytics, and other teams to assess the cost and value of existing and potential projects",
+      "Research and evaluate new technologies in the big data space to guide our continuous improvement",
+      "Collaborate with multifunctional engineers across the company to help tune the performance of large data applications to drive cost savings"
+    ],
+    "requiredQualifications": [
+      "3+ years of experience working with a distributed framework like Spark, Flink, Kafka Streams, Dask, or Hadoop",
+      "1+ years of experience with ETL job orchestration, preferably with a feature-rich tool such as Airflow, Argo, or Rundeck",
+      "2+ years of experience working with Scala, Python, Java, or C#",
+      "2+ years ensuring the reliability of software and the integrity of large data stores in a production environment",
+      "Exposure to a variety of databases and no-SQL appliances (Redshift, Snowflake, Druid, Dynamo, Cassandra, Kafka, Elastic Search, Hive, etc.)"
+    ]
+  }
+]

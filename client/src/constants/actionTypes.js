@@ -1,0 +1,36 @@
+export const DISPLAY_ALERT = "DISPLAY_ALERT";
+export const CLEAR_ALERT = "CLEAR_ALERT";
+
+export const WAITING_TO_FETCH = "WAITING_TO_FETCH";
+export const DATA_FETCHED = "DATA_FETCHED";
+export const FETCH_ALL = "FETCH_ALL";
+
+export const OPERATION_USER_BEGIN = "OPERATION_USER_BEGIN";
+export const REGISTER_USER_OK = "REGISTER_USER_OK";
+export const REGISTER_USER_ERROR = "REGISTER_USER_ERROR";
+export const LOGIN_USER_OK = "LOGIN_USER_OK";
+export const LOGIN_USER_ERROR = "LOGIN_USER_ERROR";
+export const LOGOUT_USER = "LOGOUT_USER";
+export const UPDATE_USER_OK = "UPDATE_USER_OK";
+export const UPDATE_USER_ERROR = "UPDATE_USER_ERROR";
+
+export const CLEAR_VALUES = "CLEAR_VALUES";
+export const HANDLE_CHANGE = "HANDLE_CHANGE";
+export const SORT_VALUE = "SORT_VALUE";
+
+export const CREATE_JOB_OK = "CREATE_JOB_OK";
+export const CREATE_JOB_FAILED = "CREATE_JOB_FAILED";
+export const GET_JOBS_OK = "GET_JOBS_OK";
+export const GET_JOBS_FAILED = "GET_JOBS_FAILED";
+export const DELETE_JOB_OK = "DELETE_JOB_OK";
+export const SET_UPDATE_JOB = "SET_UPDATE_JOB";
+export const PREPARE_TO_UPDATE = "PREPARE_TO_UPDATE";
+export const UPDATE_JOB_OK = "UPDATE_JOB_OK";
+export const UPDATE_JOB_FAILED = "UPDATE_JOB_FAILED";
+export const LIKE_JOB = "LIKE_JOB";
+export const CLEAR_FILTERS = "CLEAR_FILTERS";
+export const CHANGE_PAGE = "CHANGE_PAGE";
+export const CHANGE_FILTERS = "CHANGE_FILTERS";
+export const CHANGE_SORT_VALUES = "CHANGE_SORT_VALUES";
+export const GET_ONE_JOB_OK = "GET_ONE_JOB_OK";
+export const GET_ONE_JOB_FAILED = "GET_ONE_JOB_FAILED";
