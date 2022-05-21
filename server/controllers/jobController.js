@@ -131,9 +131,6 @@ export const likeJob = async (req, res) => {
   const index = job.likes.findIndex(
     (userId) => String(userId) === String(req.user.userId)
   );
-  console.log(String(req.user.userId));
-  console.log(String(job.likes[0]));
-  console.log(index);
 
   if (index === -1) {
     job.likes.push(req.user.userId);
@@ -168,7 +165,10 @@ export const getAllJobs = async (req, res) => {
   }
 
   if (technologies) {
-    queryObject.technologies = technologies.toString();
+    queryObject.technologies = {
+      $regex: technologies.toString(),
+      $options: "i",
+    };
   }
   let jobs = Job.find(queryObject);
 

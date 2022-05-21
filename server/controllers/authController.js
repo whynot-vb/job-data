@@ -24,6 +24,7 @@ export const register = async (req, res) => {
       userName: user.userName,
       location: user.location,
       email: user.email,
+      _id: user._id,
     },
     token,
   });

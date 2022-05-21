@@ -17,8 +17,6 @@ import SortData from "./components/SortData";
 import Footer from "./components/Footer";
 
 function App() {
-  const user = JSON.parse(localStorage.getItem("user"));
-  const token = localStorage.getItem("token");
   const isLoadingJobs = useSelector((state) => state.jobs.isLoading);
   const isLoadingUsers = useSelector((state) => state.users.isLoading);
   const jobName = useSelector((state) => state.jobs.jobName);

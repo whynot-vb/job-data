@@ -12,11 +12,6 @@ export default function AlertToDisplay() {
         <AlertTitle>{alertType}</AlertTitle>
         {alertText} — <strong>check it out!</strong>
       </Alert>
-
-      {/* <Alert severity="success">
-        <AlertTitle>Success</AlertTitle>
-        This is a success alert — <strong>check it out!</strong>
-      </Alert> */}
     </Stack>
   );
 }

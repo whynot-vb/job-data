@@ -18,7 +18,7 @@ const Footer = () => {
       </Typography>
       <Typography sx={{ mb: 1.5 }} color="text.secondary">
         <AiOutlineCopyrightCircle /> made by{" "}
-        <a href="https://github.com/whynot-vb">me</a>
+        <a href="https://github.com/whynot-vb">why-not</a>
       </Typography>
     </Grid>
   );

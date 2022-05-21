@@ -34,6 +34,7 @@ export default function CardContainer() {
       {jobs.map((job) => {
         return (
           <Card
+            key={job._id}
             sx={{
               minWidth: 275,
               backgroundColor: "#F0F8FF",
@@ -121,9 +122,7 @@ export default function CardContainer() {
                 to={`/job/${job._id}`}
                 size="small"
                 onClick={() => {
-                  console.log(user?._id);
-                  console.log(job.creator);
-                  dispatch(getOneJob(job._id));
+                  dispatch(getOneJob(job?._id));
                 }}
               >
                 Learn More

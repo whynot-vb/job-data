@@ -26,7 +26,6 @@ export default function ButtonAppBar() {
             DEVELOPER JOB DATA
           </Typography>
           <div>
-            <span>{user ? user.userName : ""}</span> &nbsp;
             <Button
               component={Link}
               to="/auth"
@@ -35,6 +34,7 @@ export default function ButtonAppBar() {
               variant="outlined"
               onClick={handleLogout}
             >
+              <span>{user ? user.userName : ""}</span> &nbsp;
               {!user ? "Register/Login" : "Logout"}
             </Button>
           </div>

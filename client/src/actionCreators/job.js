@@ -27,7 +27,6 @@ export const getJobs = () => async (dispatch, getState) => {
   dispatch({ type: WAITING_TO_FETCH });
   const { jobName, companyName, jobLocation, technologies, sort, page, limit } =
     getState().jobs;
-  console.log(getState().jobs);
 
   try {
     const { data } = await api.fetchJobs(
